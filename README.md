@@ -4,7 +4,7 @@ Desgined and maintained purely based on personal preferences of the author.
 
 ## Homebrew essentials
 
-### Formulae
+#### Formulae
 ```
 brew install \
 	git \
@@ -14,7 +14,7 @@ brew install \
 	watch
 ```
 
-### Casks
+#### Casks
 ```
 brew install \
 	brave-browser \
@@ -32,10 +32,23 @@ brew install \
 
 ## ZSH
 
-### Dependencies
+#### Dependencies
 - [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh#basic-installation)
 - [pure](https://github.com/sindresorhus/pure#homebrew)
 - [fzf](https://github.com/junegunn/fzf#using-homebrew)
 
-### Config
+#### Config
 Place the [.zshrc](.zshrc) file in your home directory.
+
+## Brave Browser
+- Visit this URL in browser: `brave://settings/searchEngines`
+- Add to Site Search   
+
+| Search Engine  | Shortcut | URL |
+| --- | --- | --- |
+| Google | goo | `https://www.google.com/search?q=%s` |
+| Youtube | you | `https://www.youtube.com/results?search_query=%s` |
+| Google Drive | dri | `https://drive.google.com/drive/search?q=%s` |
+| Amazon | ama | `https://www.amazon.in/s?k=%s` |
+| Flipkart | fli | `https://www.flipkart.com/search?q=%s` |
+| RottenTomatoes | rot | `https://www.rottentomatoes.com/search?search=%s` |
