@@ -41,6 +41,13 @@ brew install \
 Place the [.zshrc](.zshrc) file in your home directory.
 
 ## Brave Browser
+
+#### Extensions
+- [Bitwarden](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb)
+- [Auto Tab Discard](https://chrome.google.com/webstore/detail/auto-tab-discard/jhnleheckmknfcgijgkadoemagpecfol)
+- [SponsorBlock for Youtube](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone)
+
+#### Setup search triggers
 - Visit this URL in browser: `brave://settings/searchEngines`
 - Add to Site Search   
 
