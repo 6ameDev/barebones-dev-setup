@@ -20,7 +20,7 @@ brew install --casks \
 	brave-browser \
 	flycut \
 	iterm2 \
-	shiftit \
+	rectangle \
 	sublime-text \
 	vscodium \
         lulu \
