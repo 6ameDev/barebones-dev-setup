@@ -22,7 +22,9 @@ brew install \
 	iterm2 \
 	shiftit \
 	sublime-text \
-	visual-studio-code
+	vscodium \
+        lulu \
+        docker
 ```
 
 ## iTerm2
